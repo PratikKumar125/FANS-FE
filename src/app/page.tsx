@@ -1,3 +1,4 @@
+'use client'
 import { Button } from "@nextui-org/button";
 import { useQuery } from "@tanstack/react-query";
 import { getList } from "./API/Queries/Demo";
